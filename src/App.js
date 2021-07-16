@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          The TSecond Branch
+          The Second Branch
         </a>
       </header>
     </div>
