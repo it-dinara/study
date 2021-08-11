@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          The TSecond Branch
-          First local comit
+          Learn React
         </a>
       </header>
     </div>
