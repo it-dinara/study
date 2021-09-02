@@ -16,11 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
 
-          Learn React
-          First Remote Commit
-          Second Local Commit
-
-          The Second Branch
+          1
 
         </a>
       </header>
