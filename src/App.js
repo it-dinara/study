@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
           First Remote Commit
-          Second Remote Comit
+          Second Local Commit
         </a>
       </header>
     </div>
