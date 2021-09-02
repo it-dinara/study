@@ -15,13 +15,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
+
           Learn React
           First Remote Commit
           Second Local Commit
-=======
+
           The Second Branch
->>>>>>> e7852f6 (The Third Local Commit)
+
         </a>
       </header>
     </div>
